@@ -66,7 +66,9 @@ while True:
         nama = input("Masukkan nama mahasiswa yang ingin diubah: ")
         daftar_nilai.ubah(nama)
     elif pilihan == '5':
+        print("=============")
         print("Terima kasih!")
+        print("=============")
         break
     else:
         print("Pilihan tidak valid.")
