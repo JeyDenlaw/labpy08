@@ -7,29 +7,24 @@ Penjelasan Mendetail Program :
 -
 Program ini adalah sebuah aplikasi manajemen nilai mahasiswa yang menggunakan konsep OOP (Object-Oriented Programming) dengan kelas DaftarNilai. Program ini memungkinkan pengguna untuk menambah, menampilkan, menghapus, dan mengubah data nilai mahasiswa. 
  - INISIALISASI KELAS (Daftar Nilai)
-   Penjelasan: Kelas DaftarNilai diinisialisasi dengan atribut daftar_nilai yang berupa dictionary kosong. Dictionary ini akan digunakan untuk menyimpan data mahasiswa dengan nama sebagai kunci dan nilai sebagai nilai.
+   Kelas DaftarNilai diinisialisasi dengan atribut daftar_nilai yang berupa dictionary kosong. Dictionary ini akan digunakan untuk menyimpan data mahasiswa dengan nama sebagai kunci dan nilai sebagai nilai.
  - METODE (tambah)
-   Penjelasan:
     - Input Nama : Program meminta pengguna untuk memasukkan nama mahasiswa.
     - Input Nilai : Program meminta pengguna untuk memasukkan nilai mahasiswa.
     - Penyimpanan Data : Data nama dan nilai mahasiswa disimpan dalam dictionary 'daftar_nilai'.
     - Umpan Balik : Program menampilkan pesan bahwa data berhasil ditambahkan.
  - METODE (tampilkan)
-   Penjelasan :
     - Cek Isi Dictionary : Program memeriksa apakah ada data di dalam 'daftar_nilai'.
     - Tampilkan Data : Jika ada data, program mencetak daftar nama dan nilai mahasiswa. Jika tidak ada data, program menampilkan pesan bahwa daftar nilai masih kosong.
  - METODE (hapus)
-   Penjelasan:
     - Input Nama: Program meminta pengguna untuk memasukkan nama mahasiswa yang ingin dihapus.
     - Cek dan Hapus Data: Program memeriksa apakah nama tersebut ada dalam 'daftar_nilai'. Jika ada, data dihapus dan program menampilkan pesan bahwa data berhasil dihapus. 
       Jika tidak ada, program menampilkan pesan bahwa data tidak ditemukan.
  - METODE (ubah)
-   Penjelasan:
     - Input Nama: Program meminta pengguna untuk memasukkan nama mahasiswa yang ingin diubah nilainya.
     - Cek dan Ubah Data: Program memeriksa apakah nama tersebut ada dalam daftar_nilai. Jika ada, program meminta input nilai baru dan mengupdate nilai mahasiswa tersebut. 
       Jika tidak ada, program menampilkan pesan bahwa data tidak ditemukan.
  - MENU UTAMA
-   Penjelasan:
     - Inisialisasi Kelas: Membuat objek 'daftar_nilai' dari kelas 'DaftarNilai'.
     - Loop Menu Utama: Menampilkan menu utama dengan pilihan 1 hingga 5.
     - Pilihan Menu:
