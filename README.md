@@ -1,6 +1,7 @@
 Flowchart :
 -
-![image](https://github.com/user-attachments/assets/c9906a30-5a1b-458e-bcc3-0873aa5dddae)
+![image](https://github.com/user-attachments/assets/29911265-83d9-410b-9fd4-2b8910a983b6)
+
 
 Penjelasan Mendetail Program : 
 -
