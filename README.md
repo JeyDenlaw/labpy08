@@ -39,3 +39,17 @@ Program ini adalah sebuah aplikasi manajemen nilai mahasiswa yang menggunakan ko
        - Ubah Data: Meminta input nama mahasiswa yang ingin diubah nilainya dan memanggil metode ubah.
        - Keluar: Menampilkan pesan "Terima kasih!" dan keluar dari loop.
        - Pilihan Tidak Valid: Menampilkan pesan bahwa pilihan tidak valid jika input pengguna tidak sesuai dengan pilihan yang tersedia.
+     
+Tampilan Ketika Program di Running :
+-
+ - Tampilan ketika Tambah data : 
+![Screenshot 2024-12-05 130240](https://github.com/user-attachments/assets/a328a0a4-c8aa-461e-ae6c-d006598644b4)
+ - Tampilan Data setelah penambahan data :
+![Screenshot 2024-12-05 130324](https://github.com/user-attachments/assets/a2f27082-2259-475d-a37b-d1902e63b221)
+ - Tampilan ketika Ubah Data dan Hapus Data
+![Screenshot 2024-12-05 130353](https://github.com/user-attachments/assets/a7f6b565-2241-4b78-89f5-2afd3abc89fa)
+ - Tampilan Setelah Data dihapus dan diubah
+![Screenshot 2024-12-05 130602](https://github.com/user-attachments/assets/87262818-6198-4a3a-8f69-a0bccb81112b)
+
+Terimakasih
+-
