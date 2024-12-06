@@ -1,3 +1,7 @@
+Class Diagram : 
+-
+![1733489897753783111130251764642](https://github.com/user-attachments/assets/26f39196-540f-40f3-8fba-ab14c71165de)
+
 Flowchart :
 -
 ![image](https://github.com/user-attachments/assets/29911265-83d9-410b-9fd4-2b8910a983b6)
